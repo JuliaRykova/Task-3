@@ -46,8 +46,5 @@
 Любит игрушки на веревочке и коробки.
 Цель:
 Найти дом, где меня будут любить и заботиться обо мне, а также где я смогу применить свои уникальные навыки и способности для блага своей новой семьи.
-remote_theme: pages-themes/cayman@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
 
 ![Васька](/1695931383_gas-kvas-com-p-kartinki-s-kotami-9.jpg)
